@@ -1,6 +1,3 @@
 # CODSOFT-TASK-3
 RECOMMENDATION SYSTEM
-Create a simple recommendation system that suggests items to
-users based on their preferences. You can use techniques like
-collaborative filtering or content-based filtering to recommend
-movies, books, or products to users.
+I developed a simple content-based recommendation system that suggests movies to users based on their preferences. Users can enter a movie they like, and the system recommends other movies with similar genres. This project helped me understand the basics of recommendation systems and content-based filtering techniques.
